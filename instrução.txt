@@ -1,0 +1,8 @@
+primeiro dividir as faixas
+
+abra o power shell no windows
+
+cd "D:\editorflac"
+
+
+python aplicador.py
